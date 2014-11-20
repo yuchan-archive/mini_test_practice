@@ -22,7 +22,7 @@ module MiniTestPractice
                     return false
                 end
 
-                if str.length > 8
+                if str.length > 8 
                     return false
                 end
 

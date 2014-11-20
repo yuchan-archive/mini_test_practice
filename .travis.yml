@@ -1,3 +1,11 @@
 language: ruby
 rvm:
-  - 2.1.2
+- 2.1.4
+deploy:
+  provider: rubygems
+  api_key:
+    secure: qsu6sIblQvsftpScfaYX7N2I5+ko56S1QRwmYq4y73BpIoX0/xdYbvZ2gntaJXgne9+Y/Dh1QBfKexGQCoFo8cFNw8xXpT+pGvHJJeIw1L09DqbZ9xP4Na9qoC1NxrDFVBtHO+m8GMPL8SEt/H10H7DXqKO9P5Qbm9+3F0KeD/M=
+  gem: mini_test_practice
+  on:
+    tags: true
+    repo: yuchan-edu/mini_test_practice
