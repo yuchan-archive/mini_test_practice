@@ -1,7 +1,6 @@
 # MiniTestPractice
 
 [![Build Status](https://travis-ci.org/yuchan-edu/mini_test_practice.svg?branch=master)](https://travis-ci.org/yuchan-edu/mini_test_practice)
-TODO: Write a gem description
 
 ## Installation
 
